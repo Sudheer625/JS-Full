@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+}
+
+#submitButton{
+    background-color: black;
+    color:cyan;
+}
+
+#textBox{
+    width:7%;
+    background-color: aqua;
+    color: black;
+}
