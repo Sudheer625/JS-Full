@@ -34,3 +34,4 @@ filter.js
 reduce.js
 funcexpr.js
 arrowfunc.js
+typeconversion.js (revised)
