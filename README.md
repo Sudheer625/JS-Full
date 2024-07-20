@@ -32,3 +32,4 @@ foreach.js
 map.js
 filter.js
 reduce.js
+funcexpr.js
